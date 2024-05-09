@@ -1,10 +1,10 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinz5XmK1A9aPM7PAxus0gxVE_mVx7qYSRRcnYuTLq&s)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinz5XmK1A9aPM7PAxus0gxVE_mVx7qYSRRcnYuTLq&s)
 <h1 align="center">Hi 👋, I'm Yossaphol Manovorakul</h1>
 <h3 align="center">brabrabra</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yossaphol&label=Profile%20views&color=0e75b6&style=flat" alt="yossaphol" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-f7862.web.app/](https://portfolio-f7862.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-f7862.web.app/)
 
 - 📫 How to reach me **yossaphol3502@gmail.com**
 
