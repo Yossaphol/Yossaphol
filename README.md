@@ -11,7 +11,7 @@
 - 📫 How to reach me **yossaphol3502@gmail.com**
 </p>
 <p align="right">
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/641c2b170466977.645e34a7760bf.gif)
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/641c2b170466977.645e34a7760bf.gif">
 </p>
 
 <h3 align="left">Connect with me:</h3>
