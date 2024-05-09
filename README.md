@@ -1,4 +1,6 @@
-[MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinz5XmK1A9aPM7PAxus0gxVE_mVx7qYSRRcnYuTLq&s)
+<div style="text-align:center;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinz5XmK1A9aPM7PAxus0gxVE_mVx7qYSRRcnYuTLq&s" alt="MasterHead"/>
+</div>
 <h1 align="center">Hi 👋, I'm Yossaphol Manovorakul</h1>
 <h3 align="center">brabrabra</h3>
 
