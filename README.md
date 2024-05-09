@@ -1,5 +1,5 @@
 
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinz5XmK1A9aPM7PAxus0gxVE_mVx7qYSRRcnYuTLq&s)
+![MasterHead](https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966)
 <h1 align="center">Hi 👋, I'm Yossaphol Manovorakul</h1>
 <h3 align="center">khaopad ^^</h3>
 
