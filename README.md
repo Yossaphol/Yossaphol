@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 ,  I'm Yossaphol Manovorakul</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yossaphol&label=Profile%20views&color=0e75b6&style=flat" alt="yossaphol" /> </p>
-
 <p align="left">
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-f7862.web.app/)
